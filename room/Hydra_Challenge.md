@@ -1,5 +1,5 @@
 
-# O. Connect to the TryHackMe network using OpenVPN
+# 0. Connect to the TryHackMe network using OpenVPN
 To hack machines on TryHackMe you need to connect to our network.
 You can connect through OpenVPN, or a Kali Linux machine controlled in your browser.
 
